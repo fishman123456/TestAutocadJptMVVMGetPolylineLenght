@@ -43,17 +43,17 @@ namespace TestAutocadJptMVVMGetPolylineLenght
 
             PromptEntityOptions opts = new PromptEntityOptions("\nSelect a line:");
             opts.SetRejectMessage("\nSelected object is not a line.");
-            opts.AddAllowedClass(typeof(Line), true);
+           // opts.AddAllowedClass(typeof(Line), true);
 
             PromptEntityResult res = ed.GetEntity(opts);
             if (res.Status != PromptStatus.OK) return;
 
             using (Transaction tr = db.TransactionManager.StartTransaction())
             {
-                var line = tr.GetObject(res.ObjectId, OpenMode.ForRead) as Line;
+                var line = tr.GetObject(res.ObjectId, OpenMode.ForRead) as Polyline;
                 if (line != null)
                 {
-                    LineLength = line.Length;
+                    LineLength = line.Length/1000;
                 }
 
                 tr.Commit();

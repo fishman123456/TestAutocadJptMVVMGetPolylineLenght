@@ -5,13 +5,15 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:TestAutocadJptMVVMGetPolylineLenght"
              mc:Ignorable="d" 
-             d:DesignHeight="200" d:DesignWidth="100"  WindowStartupLocation="CenterScreen">
+             d:DesignHeight="200" d:DesignWidth="200"
+                  MinHeight="200" MinWidth="200" 
+                       Height="300" Width="400" WindowStartupLocation="CenterScreen">
     <Window.DataContext>
         <local:MainViewModel/>
         <!-- Устанавливаем DataContext -->
     </Window.DataContext>
     <Grid>
-        <StackPanel MinHeight="100" MinWidth="50">
+        <StackPanel MinHeight="100" MinWidth="50" Height="182">
             <Button Content="Get Line Length" Command="{Binding GetLineLengthCommand}" />
             <TextBlock FontSize="24" Text="{Binding LineLength}"  HorizontalAlignment="Center"/>
         </StackPanel>
