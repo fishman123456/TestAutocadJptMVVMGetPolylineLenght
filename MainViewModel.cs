@@ -33,11 +33,10 @@ namespace TestAutocadJptMVVMGetPolylineLenght
 
         public ICommand GetLineLengthCommand => new RelayCommand(GetLineLength);
 
-        [CommandMethod("U84JPTLenght")]
+        
         public void GetLineLength()
         {
-            WindowUser window = new WindowUser();
-            window.Show();
+            
             var doc = Application.DocumentManager.MdiActiveDocument;
             var db = doc.Database;
             var ed = doc.Editor;
