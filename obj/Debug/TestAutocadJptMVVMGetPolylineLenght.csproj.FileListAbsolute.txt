@@ -78,3 +78,4 @@ D:\Github\TestAutocadJptMVVMGetPolylineLenght\obj\Debug\TestAuto.2E94313D.Up2Dat
 D:\Github\TestAutocadJptMVVMGetPolylineLenght\obj\Debug\TestAutocadJptMVVMGetPolylineLenght.dll
 D:\Github\TestAutocadJptMVVMGetPolylineLenght\obj\Debug\TestAutocadJptMVVMGetPolylineLenght.pdb
 D:\Github\TestAutocadJptMVVMGetPolylineLenght\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Fishman\Documents\GitHub\TestAutocadJptMVVMGetPolylineLenght\obj\Debug\GeneratedInternalTypeHelper.g.cs

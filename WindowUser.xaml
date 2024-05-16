@@ -15,7 +15,7 @@
     <Grid>
         <StackPanel MinHeight="100" MinWidth="50" Height="182">
             <Button Content="Get Line Length" Command="{Binding GetLineLengthCommand}" />
-            <TextBlock FontSize="24" Text="{Binding LineLength}"  HorizontalAlignment="Center"/>
+            <TextBox FontSize="24" Text="{Binding LineLength}"  />
             
         </StackPanel>
 

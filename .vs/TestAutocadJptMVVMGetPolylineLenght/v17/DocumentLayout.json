@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\",
+  "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\windowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:windowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|d:\\github\\testautocadjptmvvmgetpolylinelenght\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\windowuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|c:\\users\\fishman\\documents\\github\\testautocadjptmvvmgetpolylinelenght\\windowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:windowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\windowuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:windowuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +38,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -66,19 +70,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WindowUser.xaml",
-              "DocumentMoniker": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml",
               "RelativeDocumentMoniker": "WindowUser.xaml",
-              "ToolTip": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml",
               "RelativeToolTip": "WindowUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-15T13:14:08.287Z",
@@ -88,50 +92,48 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Model.cs",
-              "DocumentMoniker": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\Model.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
-              "ToolTip": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\Model.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\Model.cs",
               "RelativeToolTip": "Model.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:57:02.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T12:57:02.623Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WindowUser.xaml.cs",
-              "DocumentMoniker": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml.cs",
               "RelativeDocumentMoniker": "WindowUser.xaml.cs",
-              "ToolTip": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\WindowUser.xaml.cs",
               "RelativeToolTip": "WindowUser.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAQwBsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:57:11.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T09:57:11.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\RelayCommand.cs",
               "RelativeDocumentMoniker": "RelayCommand.cs",
-              "ToolTip": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\RelayCommand.cs",
               "RelativeToolTip": "RelayCommand.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAnwB4AAAAIAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T09:51:41.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MainViewModel.cs",
-              "ToolTip": "D:\\Github\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
               "RelativeToolTip": "MainViewModel.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAEwFEAAAAIAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T09:50:25.38Z",
               "EditorCaption": ""
