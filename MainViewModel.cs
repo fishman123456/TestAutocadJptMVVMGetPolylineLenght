@@ -43,6 +43,7 @@ namespace TestAutocadJptMVVMGetPolylineLenght
                 OnPropertyChanged(nameof(LayerName));
             }
         }
+        
         public ICommand GetLineLengthCommand => new RelayCommand(GetLineLength);
 
         public List<string> PoliList;
@@ -53,7 +54,9 @@ namespace TestAutocadJptMVVMGetPolylineLenght
             var db = doc.Database;
             var ed = doc.Editor;
            PoliList = new List<string>();
-
+            // палитра автокад
+            //Application.activedocument.addPalette("Sample Palette", "C:/capture.html");
+            
             PromptSelectionOptions opts = new PromptSelectionOptions();
             opts.MessageForAdding = "Выберите обьекты: ";
             PromptSelectionResult res = ed.GetSelection(opts);
