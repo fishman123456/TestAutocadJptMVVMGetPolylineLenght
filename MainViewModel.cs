@@ -73,7 +73,7 @@ namespace TestAutocadJptMVVMGetPolylineLenght
                 foreach (ObjectId id in idArray)
                 {
                     doc.LockDocument();
-                    var ent = tr.GetObject(id, OpenMode.ForWrite) as Polyline;
+                    var ent = tr.GetObject(id, OpenMode.ForWrite) as Polyline3d;
                     if (ent != null )
                     {
                         PoliList.Add(ent.Length.ToString());

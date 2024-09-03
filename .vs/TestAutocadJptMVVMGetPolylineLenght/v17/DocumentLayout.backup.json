@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44B25F0-A4A5-482F-8AFD-63B945CA2DD8}|TestAutocadJptMVVMGetPolylineLenght.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\windowuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -112,13 +112,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
               "RelativeDocumentMoniker": "MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs",
-              "RelativeToolTip": "MainViewModel.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\MainViewModel.cs*",
+              "RelativeToolTip": "MainViewModel.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEsAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T09:50:25.38Z",
               "EditorCaption": ""
@@ -150,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\TestAutocadJptMVVMGetPolylineLenght\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
